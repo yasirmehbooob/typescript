@@ -1,0 +1,14 @@
+define({
+  "name": "team-management",
+  "version": "0.1.0",
+  "description": "apiDoc inherit team",
+  "sampleUrl": false,
+  "defaultVersion": "0.0.0",
+  "apidoc": "0.3.0",
+  "generator": {
+    "name": "apidoc",
+    "time": "2021-01-24T18:34:11.171Z",
+    "url": "https://apidocjs.com",
+    "version": "0.26.0"
+  }
+});
